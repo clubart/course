@@ -1,3 +1,4 @@
+// SL - nice - same comments about app though
 var app = app || {};
 app = (function () {
     'use strict';

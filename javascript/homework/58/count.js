@@ -1,3 +1,5 @@
+// SL - instructions ask for all printouts at end to prove that no counter steps on another
+// SL - comment - I get 4 jshint warnings with my settings
 (function () {
     'use strict';
     for (let i = 0; i < 10; i++) {

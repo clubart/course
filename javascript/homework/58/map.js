@@ -1,3 +1,4 @@
+// nice
 (function () {
     'use strict';
     function map(array, callback) {
